@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Internship Studio</title>
+  <title>WELLCPME TO ==> Internship Studio</title>
   <style>
     body {
       background-color: #f0f8ff;
