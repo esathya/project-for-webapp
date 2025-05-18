@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Simple HTML with CSS</title>
+  <title>Internship Studio</title>
   <style>
     body {
       background-color: #f0f8ff;
