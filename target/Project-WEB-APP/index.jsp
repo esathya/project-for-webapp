@@ -21,7 +21,7 @@
   </style>
 </head>
 <body>
-  <h1>Welcome!</h1>
+  <h1>Devops Course</h1>
   <p>This is a simple web page with HTML and CSS.</p>
 </body>
 </html>
